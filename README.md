@@ -8,7 +8,8 @@ An NPM package for formatting large numbers, including money.
 ## Getting Started
 
 
-```npm install --save currency-thousand-separator
+```
+npm install --save currency-thousand-separator
 ```
 
 ## Methods
