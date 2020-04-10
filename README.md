@@ -26,7 +26,7 @@ thousandsSeparators(2400);
 return 2, 400
 ```
 
-
+```
 import {thousandsSeparators} from 'currency-thousand-separator'
 
 thousandsSeparators(83789);
