@@ -1,13 +1,11 @@
-import assert from 'assert';
 import chai from 'chai';
 import {thousandsSeparators} from '../src/formatterOne';
 
 const { expect } = chai;
 
 describe('First Thousand separator', function () {
- it('should return a number', () => {
-        const result = thousandsSeparators(4500);
-        console.log(result);
-        expect(result).to.equal('4,500');
+ it('should return a string with formatted number', () => {
+        const result = thousandsSeparators(83789);
+        expect(result).to.equal('83,789');
     });
 });
