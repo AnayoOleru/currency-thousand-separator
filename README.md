@@ -3,6 +3,8 @@
 # currency-thousand-separator
 An NPM package for formatting large numbers, including money.
 
+[View Package](https://www.npmjs.com/package/currency-thousand-separator)
+
 
 
 ## Getting Started
